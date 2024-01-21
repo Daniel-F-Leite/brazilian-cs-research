@@ -10,6 +10,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
 - Arthur Azevedo de Amorim, Department of Computer Science at the Rochester Institute of Technology, USA http://arthuraa.net/
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
+- Daniel F. Leite, Paderborn University, Germany https://www.uni-paderborn.de/en/person/103844
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
 - Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/menasce-web/menasce.html
 - Daniela S. Cruzes, Professor at the Norwegian University of Science and Technology (NTNU) and Senior Research Scientist at SINTEF, Norway https://www.ntnu.edu/employees/dcruzes
